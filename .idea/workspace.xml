@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20eb0939-e216-4fbd-930d-e3a182e78a26" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VoEeXBttFoRx37kZTYk2V2NcD0" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/jar_files-1" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PolymorphismReveiw">
+    <configuration name="ExceptionsReveiw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day60_ExceptionsReveiw.ExceptionsReveiw" />
+      <module name="Summer2019MyJava-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day60_ExceptionsReveiw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Frequency_of_Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.Frequency_of_Characters" />
+      <module name="Summer2019MyJava-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolymorphismReveiw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day56_Polymorphism.PolymorphismReveiw" />
+      <module name="Summer2019MyJava-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day56_Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task01_GreaterNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.Task01_GreaterNumber" />
+      <module name="Summer2019MyJava-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaAssignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExcelReadWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day61_ExcelReadWrite.TestExcelReadWrite" />
+      <module name="Summer2019MyJava-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day61_ExcelReadWrite.TestExcelReadWrite" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PolymorphismReveiw" />
+        <item itemvalue="Application.ExceptionsReveiw" />
+        <item itemvalue="Application.TestExcelReadWrite" />
+        <item itemvalue="Application.Frequency_of_Characters" />
+        <item itemvalue="Application.Task01_GreaterNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20eb0939-e216-4fbd-930d-e3a182e78a26" name="Default Changelist" comment="" />
+      <created>1577911142653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577911142653</updated>
+    </task>
+    <servers />
+  </component>
+</project>
